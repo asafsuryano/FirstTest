@@ -1,0 +1,12 @@
+Id,State,TimeInRed,TimeInRedAndYellow,TimeInGreen,TimeInYellow,roadConnectedTo,copy
+0,1,5,1,6,1,R1,no
+1,1,5,1,6,1,R1,yes
+2,2,5,1,6,1,R15,no
+3,1,5,1,6,1,R3,no
+4,1,5,1,6,1,R4,no
+5,1,5,1,6,1,,
+6,1,5,1,6,1,,
+7,1,5,1,6,1,,
+8,1,5,1,6,1,,
+9,1,5,1,6,1,,
+10,1,5,1,6,1,,
